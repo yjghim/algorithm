@@ -61,9 +61,9 @@ Java
 ## 파일 이름 형식
 **출처_등급_문제.java**
 - Baekjoon Online Judge  
-ex) bj_bronze_2739.java
+ex) Bj_bronze_2739.java
 - Programmers  
-ex) pg_lv2_피로도.java
+ex) Pg_lv2_피로도.java
 
 ## 학습 참고 자료
 - Do it! 자료구조와 함께 배우는 알고리즘 입문 - 자바 편
