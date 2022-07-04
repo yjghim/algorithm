@@ -66,8 +66,8 @@ ex) bj_bronze_2739.java
 ex) pg_lv2_피로도.java
 
 ## 학습 참고 자료
-- [Do it! 자료구조와 함께 배우는 알고리즘 입문 - 자바 편](http://www.easyspub.co.kr/20_Menu/BookView/299/PUB)
-- [Do it! 알고리즘 코딩테스트 - 자바 편](http://www.easyspub.co.kr/20_Menu/BookView/503/PUB)
+- Do it! 자료구조와 함께 배우는 알고리즘 입문 - 자바 편
+- Do it! 알고리즘 코딩테스트 - 자바 편
 - [Youtube/ezsw](https://www.youtube.com/c/csezsw)
 - [Github/shwjdgh34](https://github.com/shwjdgh34/algorithms)
 
