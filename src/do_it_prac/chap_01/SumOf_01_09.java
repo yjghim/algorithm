@@ -1,4 +1,4 @@
-package do_it_prac;
+package do_it_prac.chap_01;
 import java.util.Scanner;
 
 /*
