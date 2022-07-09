@@ -12,6 +12,8 @@ Java
 각 알고리즘 별 연습 문제
 - src/coding-test  
 실제 기업 코딩테스트 문제
+- src/do-it-prac  
+교재 연습 문제
 
 ## 파일 이름 형식
 **출처_등급_문제.java**
