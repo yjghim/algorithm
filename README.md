@@ -18,15 +18,14 @@ Java
 ## 파일 이름 형식
 **출처_등급_문제.java**
 - Baekjoon Online Judge  
-ex) Bj_bronze_2739.java
+ex) BOJ_Bronze_2739.java
 - Programmers  
-ex) Pg_lv2_피로도.java
+ex) PG_Lv2_피로도.java
 
 ## 학습 참고 자료
 - Do it! 자료구조와 함께 배우는 알고리즘 입문 - 자바 편
 - Do it! 알고리즘 코딩테스트 - 자바 편
-- [Github/shwjdgh34](https://github.com/shwjdgh34/algorithms)
-- [NAVER Blog/jinhan814](https://blog.naver.com/jinhan814)
+- [Samsung SW Expert Academy](https://swexpertacademy.com/main/main.do)
 - [Youtube/ezsw](https://www.youtube.com/c/csezsw)
 
 ## 문제 출처
