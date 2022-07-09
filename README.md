@@ -10,9 +10,9 @@ Java
 **src/분류**
 - src/algorithm  
 각 알고리즘 별 연습 문제
-- src/coding-test  
+- src/coding_test  
 실제 기업 코딩테스트 문제
-- src/do-it-prac  
+- src/do_it_prac  
 교재 연습 문제
 
 ## 파일 이름 형식
