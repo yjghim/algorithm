@@ -6,7 +6,7 @@ import java.util.Scanner;
 (이는 반복문을 이용한 방법과는 차이가 있다)
 */
 
-public class SumGauss_01_08 {
+public class GaussSum_08 {
 
     static int gauseSum(int num) {
         return (num+1)*(num/2)+(num%2==0?0:(num+1)/2);

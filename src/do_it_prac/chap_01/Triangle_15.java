@@ -6,7 +6,7 @@ import java.util.Scanner;
 (왼쪽 아래가 직각, 왼쪽 위가 직각, 오른쪽 아래가 직각, 오른쪽 위가 직각)
 */
 
-public class Triangle_01_15 {
+public class Triangle_15 {
 
     static void triangleLB(int n) {
         for(int i=1; i<=n; i++) {

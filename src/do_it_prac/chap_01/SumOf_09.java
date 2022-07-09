@@ -6,7 +6,7 @@ import java.util.Scanner;
 (단, a와 b의 대소 관계에 상관없이 합을 구하라)
 */
 
-public class SumOf_01_09 {
+public class SumOf_09 {
 
     static int sumOf(int a, int b) {
         int sum = 0;

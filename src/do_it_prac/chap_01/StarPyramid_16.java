@@ -5,7 +5,7 @@ import java.util.Scanner;
 n단의 피라미드를 출력하는 메서드를 작성하라.
 */
 
-public class NumPyra_01_17 {
+public class StarPyramid_16 {
 
     static void drawPyramid(int n) {
         int bottom = (n-1)*2+1;
@@ -16,7 +16,7 @@ public class NumPyra_01_17 {
             for(int j=0; j<space; j++)
                 System.out.print(" ");
             for(int j=0; j<block; j++)
-                System.out.print(i+1);
+                System.out.print("@");
             System.out.println();
             block += 2;
             space--;

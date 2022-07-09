@@ -5,7 +5,7 @@ import java.util.Scanner;
 양의 정수를 입력하고 자릿수를 출력하는 프로그램을 작성하라.
 */
 
-public class DigitsNo_01_11 {
+public class DigitsNum_11 {
 
     static int digitNum(int num) {
         int digitNum = 0;
