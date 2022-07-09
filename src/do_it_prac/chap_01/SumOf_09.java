@@ -12,7 +12,7 @@ public class SumOf_09 {
         int sum = 0;
         int min, max;
 
-        if(a >= b) {
+        if(a>=b) {
             min = b;
             max = a;
         }
@@ -22,7 +22,7 @@ public class SumOf_09 {
         }
 
         for(int i=min; i<=max; i++) {
-            sum+=i;
+            sum += i;
         }
 
         return sum;
