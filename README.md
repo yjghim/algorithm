@@ -7,7 +7,7 @@
 Java
 
 ## 디렉터리 구성
-**src/분류**
+`src/분류`  
 - src/algorithm  
 각 알고리즘 별 연습 문제
 - src/coding_test  
@@ -16,7 +16,7 @@ Java
 교재 연습 문제
 
 ## 파일 이름 형식
-**출처_등급_문제.java**
+`출처_등급_문제.java`  
 - Baekjoon Online Judge  
 ex) BOJ_Bronze_2739.java
 - Programmers  
