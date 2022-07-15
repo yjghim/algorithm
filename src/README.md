@@ -8,7 +8,8 @@ int num = Integer.parseInt(br.readLine());
 ...
 br.close();
 ```
-readLine()은 **Enter**를 경계로 인식한다. 또한 리턴 타입이 **String**이므로, 경우에 따라 타입캐스팅이 필요하다.
+readLine()은 **Enter**를 경계로 인식한다.  
+또한 리턴 타입이 **String**이므로, 경우에 따라 타입캐스팅이 필요하다.
 - StringTokenizer
 ```
 String info = "id=yjghim&addr=wonju";
@@ -33,5 +34,5 @@ bw.flush();
 ...
 bw.close();
 ```
-마찬가지로 write()은 인자로 **String** 타입을 전달받는다. 
+마찬가지로 write()은 인자로 **String** 타입을 전달받는다.  
 (즉, 경우에 따라 타입캐스팅을 하도록 한다)
