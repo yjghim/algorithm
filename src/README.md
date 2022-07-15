@@ -4,6 +4,7 @@
 - BufferedReader
 ```
 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
 int num = Integer.parseInt(br.readLine());
 ...
 br.close();
@@ -27,6 +28,7 @@ BufferedReader로 입력받은 문자열에 대해 StringTokenizer 클래스를 
 - BufferedWriter
 ```
 BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
 bw.write("test");
 bw.newLine(); // 개행
 bw.write("test");
